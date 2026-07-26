@@ -1,5 +1,7 @@
 # Tryss Wholesale Momos
 
+🔗 **Live Demo:** [https://leadspree-dev-official.github.io/tryss-wholesale-momos/](https://leadspree-dev-official.github.io/tryss-wholesale-momos/)
+
 A modern web application built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
