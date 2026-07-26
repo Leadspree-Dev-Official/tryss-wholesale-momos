@@ -1,0 +1,6 @@
+{
+  "name": "TrySS Wholesale Momos",
+  "description": "Premium raw and frozen momo supplier in Kolkata & Howrah. Sourcing fresh, hygienic, FSSAI-compliant momos for cafes, stalls, and restaurants starting at just ₹4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
